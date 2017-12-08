@@ -8,7 +8,7 @@
  */
 
 
-import {Search} from "../search";
+import {Search} from "[path to]/search";
 
 /**
  * Main Class
@@ -103,7 +103,7 @@ export class CountryStateMap {
                 name: "custrecord_country_map_abbr",
                 join: "custrecord_state_map_country",
                 operator: "is",
-                values: [obj.stateAbbr]
+                values: [obj.countryAbbr]
             }
         ]);
 

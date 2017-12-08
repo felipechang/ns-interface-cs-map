@@ -6,7 +6,7 @@
  * @NApiVersion 2.x
  * @NModuleScope SameAccount
  */
-define(["require", "exports", "../search"], function (require, exports, search_1) {
+define(["require", "exports", "[path to]/search"], function (require, exports, search_1) {
     Object.defineProperty(exports, "__esModule", { value: true });
     /**
      * Main Class
@@ -90,7 +90,7 @@ define(["require", "exports", "../search"], function (require, exports, search_1
                     name: "custrecord_country_map_abbr",
                     join: "custrecord_state_map_country",
                     operator: "is",
-                    values: [obj.stateAbbr]
+                    values: [obj.countryAbbr]
                 }
             ]);
             //Get state and country values
