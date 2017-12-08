@@ -1,0 +1,301 @@
+Name,ID,Abbreviation,Country
+Australian Capital Territory,400,ACT,Australia
+New South Wales,401,NSW,Australia
+Northern Territory,402,NT,Australia
+Queensland,403,QLD,Australia
+South Australia,404,SA,Australia
+Tasmania,405,TAS,Australia
+Victoria,406,VIC,Australia
+Western Australia,407,WA,Australia
+Alberta,101,AB,Canada
+British Columbia,102,BC,Canada
+Manitoba,103,MB,Canada
+New Brunswick,104,NB,Canada
+Newfoundland,105,NL,Canada
+Northwest Territories,107,NT,Canada
+Nova Scotia,106,NS,Canada
+Nunavut,108,NU,Canada
+Ontario,109,ON,Canada
+Prince Edward Island,110,PE,Canada
+Quebec,111,QC,Canada
+Saskatchewan,112,SK,Canada
+Yukon,113,YT,Canada
+Anhui Province,616,安徽省,China
+Beijing,627,北京市,China
+Chongqing,630,重庆市,China
+Fujian Province,631,福建省,China
+Gansu Province,605,甘肃省,China
+Guangdong Province,622,广东省,China
+Guangxi A. R.,623,广西壮族自治区,China
+Guizhou Province,620,贵州省,China
+Hainan Province,625,海南省,China
+Hebei Province,609,河北省,China
+Heilongjiang Province,601,黑龙江省,China
+Henan Province,610,河南省,China
+Hubei Province,617,湖北省,China
+Hunan Province,618,湖南省,China
+Jiangsu Province,614,江苏省,China
+Jiangxi Province,621,江西省,China
+Jilin Province,602,吉林省,China
+Liaoning Province,603,辽宁省,China
+Neimenggu A. R.,604,内蒙古,China
+Ningxia A. R.,606,宁夏回族自治区,China
+Qinghai Province,608,青海省,China
+Shaanxi Province,613,陕西省,China
+Shandong Province,611,山东省,China
+Shanghai,628,上海市,China
+Shanxi Province,612,山西省,China
+Sichuan Province,619,四川省,China
+Tianjin,629,天津市,China
+Xinjiang A. R.,607,新疆维吾尔族自治区,China
+Xizang A. R.,626,西藏藏族自治区,China
+Yunnan Province,624,云南省,China
+Zhejiang Province,615,浙江省,China
+Aichi,722,愛知県,Japan
+Akita,704,秋田県,Japan
+Aomori,701,青森県,Japan
+Chiba,711,千葉県,Japan
+Ehime,737,愛媛県,Japan
+Fukui,717,福井県,Japan
+Fukuoka,739,福岡県,Japan
+Fukushima,706,福島県,Japan
+Gifu,720,岐阜県,Japan
+Gunma,709,群馬県,Japan
+Hiroshima,733,広島県,Japan
+Hokkaidō,700,北海道,Japan
+Hyōgo,727,兵庫県,Japan
+Ibaraki,707,茨城県,Japan
+Ishikawa,716,石川県,Japan
+Iwate,702,岩手県,Japan
+Kagawa,736,香川県,Japan
+Kagoshima,745,鹿児島県,Japan
+Kanagawa,713,神奈川県,Japan
+Kochi,738,高知県,Japan
+Kumamoto,742,熊本県,Japan
+Kyoto,725,京都府,Japan
+Mie,723,三重県,Japan
+Miyagi,703,宮城県,Japan
+Miyazaki,744,宮崎県,Japan
+Nagano,719,長野県,Japan
+Nagasaki,741,長崎県,Japan
+Nara,728,奈良県,Japan
+Niigata,714,新潟県,Japan
+Okayama,732,岡山県,Japan
+Okinawa,746,沖縄県,Japan
+Osaka,726,大阪府,Japan
+Saga,740,佐賀県,Japan
+Saitama,710,埼玉県,Japan
+Shiga,724,滋賀県,Japan
+Shimane,731,島根県,Japan
+Shizuoka,721,静岡県,Japan
+Tochigi,708,栃木県,Japan
+Tokushima,735,徳島県,Japan
+Tokyo,712,東京都,Japan
+Tottori,730,鳥取県,Japan
+Toyama,715,富山県,Japan
+Wakayama,729,和歌山県,Japan
+Yamagata,705,山形県,Japan
+Yamaguchi,734,山口県,Japan
+Yamanashi,718,山梨県,Japan
+Ōita,743,大分県,Japan
+Aguascalientes,500,AGS,Mexico
+Baja California Norte,501,BCN,Mexico
+Baja California Sur,502,BCS,Mexico
+Campeche,503,CAM,Mexico
+Chiapas,504,CHIS,Mexico
+Chihuahua,505,CHIH,Mexico
+Coahuila,506,COAH,Mexico
+Colima,507,COL,Mexico
+Distrito Federal,508,DF,Mexico
+Durango,509,DGO,Mexico
+Guanajuato,510,GTO,Mexico
+Guerrero,511,GRO,Mexico
+Hidalgo,512,HGO,Mexico
+Jalisco,513,JAL,Mexico
+Michoacán,515,MICH,Mexico
+Morelos,516,MOR,Mexico
+México (Estado de),514,MEX,Mexico
+Nayarit,517,NAY,Mexico
+Nuevo León,518,NL,Mexico
+Oaxaca,519,OAX,Mexico
+Puebla,520,PUE,Mexico
+Querétaro,521,QRO,Mexico
+Quintana Roo,522,QROO,Mexico
+San Luis Potosí,523,SLP,Mexico
+Sinaloa,524,SIN,Mexico
+Sonora,525,SON,Mexico
+Tabasco,526,TAB,Mexico
+Tamaulipas,527,TAMPS,Mexico
+Tlaxcala,528,TLAX,Mexico
+Veracruz,529,VER,Mexico
+Yucatán,530,YUC,Mexico
+Zacatecas,531,ZAC,Mexico
+Aberdeenshire,201,Aberdeenshire,United Kingdom
+Angus,202,Angus,United Kingdom
+Argyll,203,Argyll,United Kingdom
+Avon,204,Avon,United Kingdom
+Ayrshire,205,Ayrshire,United Kingdom
+Banffshire,206,Banffshire,United Kingdom
+Bedfordshire,207,Beds.,United Kingdom
+Berkshire,208,Berks.,United Kingdom
+Berwickshire,209,Berwickshire,United Kingdom
+Buckinghamshire,210,Bucks.,United Kingdom
+Caithness,211,Caithness,United Kingdom
+Cambridgeshire,212,Cambs.,United Kingdom
+Cheshire,213,Ches.,United Kingdom
+Clackmannanshire,214,Clackmannanshire,United Kingdom
+Cleveland,215,Cleveland,United Kingdom
+Clwyd,216,Clwyd,United Kingdom
+Cornwall,217,Cornwall,United Kingdom
+County Antrim,218,Co Antrim,United Kingdom
+County Armagh,219,Co Armagh,United Kingdom
+County Down,220,Co Down,United Kingdom
+County Durham,231,Durham,United Kingdom
+County Fermanagh,221,Co Fermanagh,United Kingdom
+County Londonderry,222,Co Londonderry,United Kingdom
+County Tyrone,223,Co Tyrone,United Kingdom
+Cumbria,225,Cumbria,United Kingdom
+Derbyshire,226,Derbys.,United Kingdom
+Devon,227,Devon,United Kingdom
+Dorset,228,Dorset,United Kingdom
+Dumfriesshire,229,Dumfriesshire,United Kingdom
+Dunbartonshire,230,Dunbartonshire,United Kingdom
+Dyfed,232,Dyfed,United Kingdom
+East Lothian,234,E Lothian,United Kingdom
+East Sussex,233,E Sussex,United Kingdom
+Essex,235,Essex,United Kingdom
+Fife,236,Fife,United Kingdom
+Gloucestershire,237,Gloucs.,United Kingdom
+Greater London,238,London,United Kingdom
+Gwent,239,Gwent,United Kingdom
+Gwynedd,240,Gwynedd,United Kingdom
+Hampshire,241,Hants.,United Kingdom
+Herefordshire,242,Hereford,United Kingdom
+Hertfordshire,243,Herts.,United Kingdom
+Inverness-shire,245,Inverness-shire,United Kingdom
+Isle of Arran,246,Isle of Arran,United Kingdom
+Isle of Barra,247,Isle of Barra,United Kingdom
+Isle of Benbecula,248,Isle of Benbecula,United Kingdom
+Isle of Bute,249,Isle of Bute,United Kingdom
+Isle of Canna,250,Isle of Canna,United Kingdom
+Isle of Coll,251,Isle of Coll,United Kingdom
+Isle of Colonsay,252,Isle of Colonsay,United Kingdom
+Isle of Cumbrae,253,Isle of Cumbrae,United Kingdom
+Isle of Eigg,254,Isle of Eigg,United Kingdom
+Isle of Gigha,255,Isle of Gigha,United Kingdom
+Isle of Harris,256,Isle of Harris,United Kingdom
+Isle of Iona,258,Isle of Iona,United Kingdom
+Isle of Islay,257,Isle of Islay,United Kingdom
+Isle of Jura,259,Isle of Jura,United Kingdom
+Isle of Lewis,260,Isle of Lewis,United Kingdom
+Isle of Mull,261,Isle of Mull,United Kingdom
+Isle of North Uist,262,Isle of North Uist,United Kingdom
+Isle of Rum,263,Isle of Rum,United Kingdom
+Isle of Scalpay,264,Isle of Scalpay,United Kingdom
+Isle of Skye,265,Isle of Skye,United Kingdom
+Isle of South Uist,266,Isle of South Uist,United Kingdom
+Isle of Tiree,267,Isle of Tiree,United Kingdom
+Isle of Wight,268,Isle of Wight,United Kingdom
+Kent,269,Kent,United Kingdom
+Kincardineshire,270,Kincardineshire,United Kingdom
+Kinross-shire,271,Kinross-shire,United Kingdom
+Kirkcudbrightshire,272,Kirkcudbrightshire,United Kingdom
+Lanarkshire,273,Lanarkshire,United Kingdom
+Lancashire,274,Lancs.,United Kingdom
+Leicestershire,275,Leics.,United Kingdom
+Lincolnshire,276,Lincs.,United Kingdom
+Merseyside,277,Merseyside,United Kingdom
+Mid Glamorgan,278,M Glam,United Kingdom
+Mid Lothian,279,Mid Lothian,United Kingdom
+Middlesex,280,Middx.,United Kingdom
+Morayshire,281,Morayshire,United Kingdom
+Nairnshire,282,Nairnshire,United Kingdom
+Norfolk,283,Norfolk,United Kingdom
+North Humberside,284,N Humberside,United Kingdom
+North Yorkshire,285,N Yorkshire,United Kingdom
+Northamptonshire,286,Northants.,United Kingdom
+Northumberland,287,Northumberland,United Kingdom
+Nottinghamshire,288,Notts.,United Kingdom
+Oxfordshire,289,Oxon.,United Kingdom
+Peeblesshire,290,Peeblesshire,United Kingdom
+Perthshire,291,Perthshire,United Kingdom
+Powys,292,Powys,United Kingdom
+Renfrewshire,293,Renfrewshire,United Kingdom
+Ross-shire,294,Ross-shire,United Kingdom
+Roxburghshire,295,Roxburghshire,United Kingdom
+Selkirkshire,298,Selkirkshire,United Kingdom
+Shropshire,297,Shrops,United Kingdom
+Somerset,299,Somt.,United Kingdom
+South Glamorgan,300,S Glam,United Kingdom
+South Humberside,301,S Humberside,United Kingdom
+South Yorkshire,302,S Yorkshire,United Kingdom
+Staffordshire,303,Staffs.,United Kingdom
+Stirlingshire,304,Stirlingshire,United Kingdom
+Suffolk,305,Suffolk,United Kingdom
+Surrey,306,Surrey,United Kingdom
+Sutherland,307,Sutherland,United Kingdom
+Tyne and Wear,308,Tyne & Wear,United Kingdom
+Warwickshire,309,Warks,United Kingdom
+West Glamorgan,310,W Glam,United Kingdom
+West Lothian,311,W Lothian,United Kingdom
+West Midlands,312,W Midlands,United Kingdom
+West Sussex,313,W Sussex,United Kingdom
+West Yorkshire,314,W Yorkshire,United Kingdom
+Wigtownshire,315,Wigtownshire,United Kingdom
+Wiltshire,316,Wilts,United Kingdom
+Worcestershire,317,Worcs,United Kingdom
+Alabama,0,AL,United States
+Alaska,1,AK,United States
+Arizona,2,AZ,United States
+Arkansas,3,AR,United States
+Armed Forces Americas,53,AA,United States
+Armed Forces Europe,52,AE,United States
+Armed Forces Pacific,54,AP,United States
+California,4,CA,United States
+Colorado,5,CO,United States
+Connecticut,6,CT,United States
+Delaware,7,DE,United States
+District of Columbia,8,DC,United States
+Florida,9,FL,United States
+Georgia,10,GA,United States
+Hawaii,11,HI,United States
+Idaho,12,ID,United States
+Illinois,13,IL,United States
+Indiana,14,IN,United States
+Iowa,15,IA,United States
+Kansas,16,KS,United States
+Kentucky,17,KY,United States
+Louisiana,18,LA,United States
+Maine,19,ME,United States
+Maryland,20,MD,United States
+Massachusetts,21,MA,United States
+Michigan,22,MI,United States
+Minnesota,23,MN,United States
+Mississippi,24,MS,United States
+Missouri,25,MO,United States
+Montana,26,MT,United States
+Nebraska,27,NE,United States
+Nevada,28,NV,United States
+New Hampshire,29,NH,United States
+New Jersey,30,NJ,United States
+New Mexico,31,NM,United States
+New York,32,NY,United States
+North Carolina,33,NC,United States
+North Dakota,34,ND,United States
+Ohio,35,OH,United States
+Oklahoma,36,OK,United States
+Oregon,37,OR,United States
+Pennsylvania,38,PA,United States
+Puerto Rico,39,PR,United States
+Rhode Island,40,RI,United States
+South Carolina,41,SC,United States
+South Dakota,42,SD,United States
+Tennessee,43,TN,United States
+Texas,44,TX,United States
+Utah,45,UT,United States
+Vermont,46,VT,United States
+Virginia,47,VA,United States
+Washington,48,WA,United States
+West Virginia,49,WV,United States
+Wisconsin,50,WI,United States
+Wyoming,51,WY,United States
